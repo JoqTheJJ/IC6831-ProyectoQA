@@ -1,0 +1,22 @@
+Documentación SRS Final
+https://1drv.ms/w/s!AmQhLrpT--jPjLl3F4zmwyiA-SizbA?e=0TaMty
+
+
+
+
+Documentacion <Fase 1>
+
+Casos de Uso (Vista de Escenarios):
+https://drive.google.com/file/d/1m6Vf4LOq0-ZnRwPaPiGU2bWJ1SG_Kxj_/view?usp=sharing
+
+Figma:
+https://www.figma.com/design/8MXWILJMD6xqlFIFolNoIs/PrototipoFarmacia_Dise%C3%B1o?node-id=0-1&t=JxJkCsvmbij6YBYI-1
+
+Vista Física:
+https://lucid.app/lucidchart/d2f7a31d-6eff-4cee-b2fa-426d9939ece2/edit?viewport_loc=-764%2C-395%2C2125%2C1031%2C0_0&invitationId=inv_c865f64d-5df0-46c4-8c88-d47cd8ed30d0
+
+Vista de Implementación:
+https://lucid.app/lucidchart/454b4a81-cd36-4b8f-adb1-29217d162703/edit?viewport_loc=-151%2C-334%2C2299%2C2548%2CSD~btuP.wggj&invitationId=inv_8484ad8a-84e2-4cee-a8cd-c8196502613b
+
+Vista de Procesos:
+https://lucid.app/lucidchart/bab2ae29-2cb1-43a4-b26a-7ffe1bd04460/edit?invitationId=inv_2cf8e895-a793-4af4-b215-4c0ae076dae0
