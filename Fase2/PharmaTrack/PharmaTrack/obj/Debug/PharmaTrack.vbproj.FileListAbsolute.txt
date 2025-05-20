@@ -1,0 +1,546 @@
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebForms_Basic.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Console.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Http.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebGrease.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.AssemblyReference.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.Resources.resources
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.GenerateResource.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.CoreCompileInputs.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTr.649B513C.Up2Date
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\WebForms_Basic.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebForms_Basic.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Console.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Http.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebGrease.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.AssemblyReference.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.Resources.resources
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.GenerateResource.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.CoreCompileInputs.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTr.649B513C.Up2Date
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\WebForms_Basic.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebForms_Basic.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Console.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Http.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebGrease.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.AssemblyReference.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.Resources.resources
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.GenerateResource.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.CoreCompileInputs.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTr.649B513C.Up2Date
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\WebForms_Basic.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\ProyectoPharmaTrackFGH\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebForms_Basic.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Console.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Http.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebGrease.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.AssemblyReference.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.Resources.resources
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.GenerateResource.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.CoreCompileInputs.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTr.649B513C.Up2Date
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\WebForms_Basic.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\RepoPharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.pdb
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll.config
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.pdb
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebForms_Basic.xml
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe.config
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.rsp
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe.config
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.rsp
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.AppContext.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Console.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Http.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.ValueTuple.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe.config
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.rsp
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebGrease.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.xml
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.xml
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.pdb
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\System.Web.Optimization.resources.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.Resources.resources
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.GenerateResource.cache
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.CoreCompileInputs.cache
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.CopyComplete
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.dll
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\WebForms_Basic.xml
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.pdb
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll.config
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.pdb
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebForms_Basic.xml
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe.config
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.rsp
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe.config
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.rsp
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Managed.Core.targets
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Win32.Primitives.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.AppContext.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Collections.Immutable.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Console.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Globalization.Calendars.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.ZipFile.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Http.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Sockets.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Reflection.Metadata.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Threading.Tasks.Extensions.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.ValueTuple.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XmlDocument.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe.config
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.rsp
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe.config
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.MSAjax.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.WebForms.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.Web.Infrastructure.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebGrease.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.xml
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.xml
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.pdb
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\System.Web.Optimization.resources.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.AssemblyReference.cache
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.Resources.resources
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.GenerateResource.cache
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.CoreCompileInputs.cache
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.CopyComplete
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.dll
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\WebForms_Basic.xml
+K:\Documentos\GitHub\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.pdb
+C:\Users\lbarreda\OneDrive - IICA\Desktop\Personal\TEC\Proyecto Diseno\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.AssemblyReference.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\PharmaTrack.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebForms_Basic.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\WebGrease.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\System.Web.Optimization.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Newtonsoft.Json.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Antlr3.Runtime.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.AssemblyReference.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.Resources.resources
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.GenerateResource.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.vbproj.CoreCompileInputs.cache
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTr.649B513C.Up2Date
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\WebForms_Basic.xml
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\obj\Debug\PharmaTrack.pdb
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csc.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\csi.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Console.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Http.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.exe.config
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\vbc.rsp
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Ale\Desktop\LuisAle\TEC\Diseño\Proyecto\PharmaTrack\PharmaTrack\PharmaTrack\PharmaTrack\bin\roslyn\VBCSCompiler.exe.config
