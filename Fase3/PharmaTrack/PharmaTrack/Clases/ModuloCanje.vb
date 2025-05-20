@@ -43,9 +43,10 @@ Public Class ModuloCanje
 
 
 
-    Public Function VerDetallesParaCanjear(producto As String) As String
-        Throw New NotImplementedException("No implementado")
+    Public Function VerDetallesParaCanjear(producto As String) As List(Of String)
+        Return DBConnection.GetMedicamentos()
     End Function
+
 
     Public Sub ActualizarRegistrosCanjeados(canjeadas As List(Of Solicitud))
 
@@ -56,8 +57,8 @@ Public Class ModuloCanje
         VActualizarRegistro.ActualizarRegistros()
     End Sub
 
-    Public Sub CanjearProducto(producto As String)
-        Throw New NotImplementedException("No implementado")
+    Public Sub CanjearProducto(facturas As List(Of Solicitud))
+        ActualizarRegistrosCanjeados(facturas)
     End Sub
 
 

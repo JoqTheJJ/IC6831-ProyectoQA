@@ -10,9 +10,8 @@ Public Class Canje
     Public Property Fecha As Date
     Public Property Solicitudes As List(Of Solicitud)
 
-    Public Sub New(numero As Integer, puntosUsados As Integer, farmacia As String, usuario As String, idUsuario As Integer, identificacionUsuario As Integer, medicamento As String, idMedicamento As Integer, fecha As Date)
+    Public Sub New(numero As Integer, farmacia As String, usuario As String, idUsuario As Integer, identificacionUsuario As Integer, medicamento As String, idMedicamento As Integer, fecha As Date)
         Me.Numero = numero
-        Me.PuntosUsados = puntosUsados
         Me.Farmacia = farmacia
         Me.Usuario = usuario
         Me.IdUsuario = idUsuario
@@ -24,6 +23,6 @@ Public Class Canje
     End Sub
 
     Public Overrides Function ToString() As String
-        Return $"Número: {Numero}, Puntos Usados: {PuntosUsados}, Farmacia: {Farmacia}, Usuario: {Usuario}, Medicamento: {Medicamento}, Fecha: {Fecha.ToShortDateString()}"
+        Return $"Número: {Numero}, Farmacia: {Farmacia}, Usuario: {Usuario}, Medicamento: {Medicamento}, Fecha: {Fecha.ToShortDateString()}"
     End Function
 End Class

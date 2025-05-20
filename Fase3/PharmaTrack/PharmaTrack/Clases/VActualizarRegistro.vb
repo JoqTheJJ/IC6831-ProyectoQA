@@ -20,6 +20,8 @@ Public Class VActualizarRegistro
                 solicitud.Estado = "Aplicado"
             End If
         Next
+
+
     End Sub
 
     Public Sub VaciarSolicitudes()
